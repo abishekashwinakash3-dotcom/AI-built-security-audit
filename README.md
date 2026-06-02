@@ -1,8 +1,8 @@
-# AI Built It. I Audited It.
+# If AI Builts It. I Audit It's Security. 
 
 I was curious about something: AI builders like Lovable let anyone ship a full-stack web app from a single sentence. That's impressive. But what do they miss?
 
-I picked 10 real, live websites from the Lovable community showcase and ran a passive audit on all of them using the Firecrawl API — mapping their URLs, scraping their pages, and analyzing what was publicly visible. No hacking, no login attempts, no active probing. Just reading what the sites were already showing to any visitor.
+I picked 10 real (Y just 10, best this is just a sample), live websites from the Lovable community showcase and ran a passive audit on all of them using the Firecrawl API — mapping their URLs, scraping their pages, and analyzing what was publicly visible. No hacking, no login attempts, no active probing. Just reading what the sites were already showing to any visitor.
 
 What I found surprised me. These weren't abandoned prototypes — some of them had hundreds of paying customers and real business data. But the security and compliance gaps were consistent and fixable.
 
