@@ -41,7 +41,7 @@ Then I analyzed for:
 - Data handling issues (children's data, credential storage, outdated policies)
 ```
 
-**Tools:** Firecrawl API · Node.js
+**Tools:** Firecrawl API · Node.js + Python
 
 ---
 
